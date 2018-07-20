@@ -2,7 +2,7 @@
 			list-style-type: none;
 			margin: 0;
 			padding: 0;
-		}	
+		}
 
 		a{
 			text-decoration: none;
@@ -20,8 +20,8 @@
 			display: inline-block;
 			float: right;
 			margin-right: 30px;
-			
-			
+
+
 		}
 
 		.menu > li{
@@ -66,12 +66,12 @@
 			border-radius: 4px;
 			transition-duration: 500ms;
 			overflow: hidden;
-			
+
 		}
 
 		.dropdown>li{
 			border-top: 1px solid white;
-			
+
 		}
 
 		.dropdown > li > a{
